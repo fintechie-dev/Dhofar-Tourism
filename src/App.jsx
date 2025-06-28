@@ -7,7 +7,7 @@ import PlaceDetails from "./Pages/placeDetails"
 import Places from "./Pages/places"
 import SafetyTips from "./Pages/safetyTips"
 import Footer from "./Components/footer"
-import AdArea from "./Components/AdArea"
+import AdArea from "./Components/adArea"
 
 
 function App() {
